@@ -2,6 +2,7 @@
 /.vscode
 /vendor
 /config
+/runtime
 *.log
 .env
 .DS_Store
