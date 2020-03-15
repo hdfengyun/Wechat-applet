@@ -1,7 +1,9 @@
 /.idea
 /.vscode
 /vendor
+/config
 *.log
-thinkphp
 .env
 .DS_Store
+framework-5.1.37.zip
+think-5.1.37.zip
